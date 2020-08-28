@@ -1,7 +1,7 @@
 {
-  "name": "@frosting/ioc",
-  "version": "0.0.1",
-  "description": "An opinionated server-side Inversion of Control (IOC) ecosystem and container for Typescript.",
+  "name": "@yokets/ioc",
+  "version": "0.0.2",
+  "description": "YokeTS: An opinionated server-side Inversion of Control (IOC) ecosystem and container for Typescript.",
   "main": "lib/inversify.js",
   "jsnext:main": "es/inversify.js",
   "types": "./dts/inversify.d.ts",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/frostingjs/ioc.git"
+    "url": "https://github.com/yokets/ioc.git"
   },
   "keywords": [
     "ioc",
@@ -30,9 +30,9 @@
   "author": "Paris Holley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frostingjs/ioc/issues"
+    "url": "https://github.com/yokets/ioc/issues"
   },
-  "homepage": "https://github.com/frostingjs/ioc",
+  "homepage": "https://github.com/yokets/ioc",
   "engines": {},
   "devDependencies": {
     "@types/chai": "4.1.4",
