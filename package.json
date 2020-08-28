@@ -1,7 +1,7 @@
 {
-  "name": "inversify",
-  "version": "5.0.1",
-  "description": "A powerful and lightweight inversion of control container for JavaScript and Node.js apps powered by TypeScript.",
+  "name": "@frosting/ioc",
+  "version": "0.0.1",
+  "description": "An opinionated server-side Inversion of Control (IOC) ecosystem and container for Typescript.",
   "main": "lib/inversify.js",
   "jsnext:main": "es/inversify.js",
   "types": "./dts/inversify.d.ts",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/inversify/InversifyJS.git"
+    "url": "https://github.com/frostingjs/ioc.git"
   },
   "keywords": [
     "ioc",
@@ -27,12 +27,12 @@
     "dependency inversion",
     "inversion of control container"
   ],
-  "author": "Remo H. Jansen",
+  "author": "Paris Holley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/inversify/InversifyJS/issues"
+    "url": "https://github.com/frostingjs/ioc/issues"
   },
-  "homepage": "http://inversify.io",
+  "homepage": "https://github.com/frostingjs/ioc",
   "engines": {},
   "devDependencies": {
     "@types/chai": "4.1.4",
