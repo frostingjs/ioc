@@ -1,4 +1,4 @@
-# FrostingJS: Inversion of Control
+# YokeTS: Inversion of Control
 
 [![Join the chat at https://gitter.im/frostingjs/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frostingjs/community)
 
@@ -21,7 +21,7 @@ Then there are more batteries-included frameworks that provide IoC out-the-box b
 * [adonisjs](https://adonisjs.com/)
 * [nestjs](https://nestjs.com/)
 
-An similarly, if you prefer a framework to make all the decisions for you then one of those MAY scale with your architecture. However, if you are in the camp who prefer libraries over frameworks, there really isn't a project out there that sits in the middle, hence: FrostingJS.
+An similarly, if you prefer a framework to make all the decisions for you then one of those MAY scale with your architecture. However, if you are in the camp who prefer libraries over frameworks, there really isn't a project out there that sits in the middle, hence: YokeTS.
 
 ## Design Philosophy
 

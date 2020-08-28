@@ -1,6 +1,6 @@
 {
   "name": "@yokets/ioc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "YokeTS: An opinionated server-side Inversion of Control (IOC) ecosystem and container for Typescript.",
   "main": "lib/inversify.js",
   "jsnext:main": "es/inversify.js",
