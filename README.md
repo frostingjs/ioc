@@ -1,6 +1,6 @@
 # YokeTS: Inversion of Control
 
-[![Join the chat at https://gitter.im/frostingjs/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frostingjs/community)
+[![Join the chat at https://gitter.im/yokets/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yokets/community)
 
 **Note**: This is a fork of the popular InversifyJS however long term, much of code may be replaced as we get closer to a 1.0 release.
 
